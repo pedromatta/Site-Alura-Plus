@@ -5,5 +5,5 @@
 <p> Para executar a página por favor copie o link para o seu navegador </p>
 
 ```
-https://alurabooks-pedromatta.vercel.app
+https://aluraplus-pedromatta.vercel.app
 ```
